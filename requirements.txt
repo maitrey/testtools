@@ -1,0 +1,4 @@
+conan==2.0.4
+semantic_version==2.10.0
+GitPython==3.1.18
+svn==1.0.1
